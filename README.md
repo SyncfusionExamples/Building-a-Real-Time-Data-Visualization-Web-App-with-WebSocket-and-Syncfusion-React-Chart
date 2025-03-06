@@ -1,0 +1,2 @@
+# Building-a-Real-Time-Data-Visualization-Web-App-with-WebSocket-and-Syncfusion-React-Chart
+This example demonstrates how to integrate WebSocket with Syncfusion React Chart to create a real-time data visualization application. It dynamically streams live data from a WebSocket server, updates a Spline Chart in real-time, and enhances the user experience with smooth animations and interactive features.
